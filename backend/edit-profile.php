@@ -297,3 +297,12 @@ while($data=mysqli_fetch_array($sql))
 			</div>
 
 		</div>
+        <script>
+			jQuery(document).ready(function() {
+				Main.init();
+				FormElements.init();
+			});
+		</script>
+ 
+	</body>
+</html>
