@@ -117,6 +117,7 @@ footer .widget h5 {
 </style>
 </head>
 
+
 <body>
 
   <div class="container navigation" style="background: -webkit-linear-gradient(left, #3931af, #00c6ff);width: 98.85vw;height: 70px;padding-top: 10px;">
@@ -258,4 +259,92 @@ footer .widget h5 {
                     </div>
                   </div>
                 </div>
+    
+                <div class="wow fadeInRight" data-wow-delay="0.2s">
+                  <div class="service-box">
+                    <div class="service-icon">
+                      <span class="fa fa-filter fa-3x" style="color:#0062cc"></span>
+                    </div>
+                    <div class="service-desc">
+                      <h5 class="h-light">Neurology</h5>
+                      <p>Consult our neurology experts for diagnosis and treatment of neurological conditions. Benefit from their expertise in managing various neurological disorders.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="wow fadeInRight" data-wow-delay="0.3s">
+                  
+                  <div class="service-box">
+                    <div class="service-icon">
+                      <span class="fa fa-heartbeat fa-3x"></span>
+                    </div>
+                    <div class="service-desc">
+                      <h5 class="h-light">Sleep Center</h5>
+                      <p>Visit our sleep center for evaluation and treatment of sleep-related issues. Our specialists help diagnose and manage sleep disorders for improved overall health.</p>
+                    </div>
+                  </div>
+                </div>
+    
+              </div>
+    
+            </div>
+          </div>
+        </section>
+    
+        <footer style="background: -webkit-linear-gradient(left, #3931af, #00c6ff);color: #e4d6d6">
+
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-6 col-md-4">
+                <div class="wow fadeInDown" data-wow-delay="0.1s">
+                  <div class="widget">
+                    <h5>About METROPOLITAN Hospital</h5>
+                    <p>
+                    At Metropolitan Hospital, we are committed to providing exceptional healthcare services to our community. With a legacy of 10 years, we stand as a trusted healthcare provider dedicated to delivering compassionate care and advanced medical expertise.
+                    </p>
+                  </div>
+                </div>
+                <div class="wow fadeInDown" data-wow-delay="0.1s">
+                  <div class="widget">
+                 
+                
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-6 col-md-4">
+                <div class="wow fadeInDown" data-wow-delay="0.1s">
+                  <div class="widget">
+                    <h5>Metropolitan Hospital </h5>
+                    <p>
+                      
+                    </p>
+                    <ul>
+                      <li>
+                        <span class="fa-stack fa-lg">
+                      <i class="fa fa-calendar-o fa-stack-1x fa-inverse"></i>
+                    </span> Monday - Saturday, 8am to 10pm
+                      </li>
+                      <li>
+                        <span class="fa-stack fa-lg">
+                      <i class="fa fa-phone fa-stack-1x fa-inverse"></i>
+                    </span> +880 08 904 711
+                      </li>
+                      <li>
+                        <span class="fa-stack fa-lg">
+                      <i class="fa fa-envelope-o fa-stack-1x fa-inverse"></i>
+                    </span> Contact@Metrohospital.com
+                      </li>
+    
+             
+           
+          
+        </footer>
+    
+    
+      </div>
+    
+    
+    
+
+    </body>
+    </html>
     
