@@ -264,3 +264,34 @@ footer .widget h5 {
                     </div>
                   </div>
                 </div>
+
+
+                </div>
+              <div class="col-sm-3 col-md-3">
+    
+                <div class="wow fadeInRight" data-wow-delay="0.1s">
+                  <div class="service-box">
+                    <div class="service-icon">
+                      <span class="fa fa-h-square fa-3x" style="color:#0062cc"></span>
+                    </div>
+                    <div class="service-desc">
+                      <h5 class="h-light">Gyn Care</h5>
+                      <p>Experience specialized care for women's health needs. Our gynecologists provide comprehensive services, from routine checkups to advanced treatments.</p>
+                    </div>
+                  </div>
+                </div>
+
+                </div>
+              <div class="col-sm-3 col-md-3">
+    
+                <div class="wow fadeInRight" data-wow-delay="0.1s">
+                  <div class="service-box">
+                    <div class="service-icon">
+                      <span class="fa fa-h-square fa-3x" style="color:#0062cc"></span>
+                    </div>
+                    <div class="service-desc">
+                      <h5 class="h-light">Gyn Care</h5>
+                      <p>Experience specialized care for women's health needs. Our gynecologists provide comprehensive services, from routine checkups to advanced treatments.</p>
+                    </div>
+                  </div>
+                </div>
