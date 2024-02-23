@@ -68,6 +68,7 @@
     color: white;
 }
 
+
 .fa-user-md:before {
     color: white;
     background: #00ffff2b;
@@ -101,7 +102,6 @@ footer .widget h5 {
     background:-webkit-linear-gradient(left, #3931af, #00c6ff);
     padding: 200px 0 60px;
 }
-
 
 </style>
 </head>
