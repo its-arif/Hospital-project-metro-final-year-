@@ -272,3 +272,22 @@ Book Appointment
 <a href="appointment-history.php" class="xbtn btn-1 btn-sep">
   My Appointments
 </a>
+
+	
+						 
+						
+					</div>
+				</div>
+			</div>
+
+		</div>
+
+		<script>
+			jQuery(document).ready(function() {
+				Main.init();
+				FormElements.init();
+			});
+		</script>
+
+	</body>
+</html>
