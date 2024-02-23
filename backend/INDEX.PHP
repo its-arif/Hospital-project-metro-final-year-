@@ -189,3 +189,20 @@ footer .widget h5 {
                 <i class="fa fa-user-md fa-3x bg-skin"></i>
                 <h4>Doctors login</h4>
                 
+
+                <a href=" backend/doctor" class="btn btn-skin btn-lg" style="background:white;color:#006ccf">LOGIN<i class="fa fa-angle-right"></i></a>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-3 col-md-3">
+            <div class="wow fadeInUp" data-wow-delay="0.7s">
+              <div class="box text-center">
+                <i class="fa fa-user fa-3x bg-skin"></i>
+                <h4>Admin Login</h4>
+              
+                  <a href=" backend/admin" class="btn btn-skin btn-lg" style="background:white;color:#006ccf">lOGIN <i class="fa fa-angle-right"></i></a>
+                </p>
+              </div>
+            </div>
+          </div>
