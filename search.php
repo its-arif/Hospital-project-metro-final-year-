@@ -27,6 +27,100 @@ if(strlen($_SESSION['id']==0)) {
 		<link rel="stylesheet" href="assets/css/plugins.css">
 		<link rel="stylesheet" href="assets/css/themes/theme-1.css" id="skin_color" />
 	</head>
+
+	.bg-skin {
+    background: #0062cc;
+    
+  }
+
+
+  .nav>li>a:hover, .nav>li>a:focus {
+    text-decoration: none;
+    background-color: #251f1f00;
+   
+}
+
+.btn-skin {
+  background-color: #0062cc;
+    border-color: #0062cc;
+}
+.box h4 {
+    font-size: 24px;
+    color: white;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+.service-desc h5 {
+    margin-bottom: 10px;
+     color: white;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+.fa-stethoscope:before {
+  color: white;
+}
+
+.fa-h-square:before {
+    color: white;
+}
+
+.fa-wheelchair:before {
+    color: white;
+}
+
+.fa-filter:before {
+    color: white;
+}
+
+.fa-plus-square:before {
+    color: white;
+}
+
+.fa-user-md:before {
+    color: white;
+    background: #00ffff2b;
+}
+
+.fa-check:before {
+    background: #084dbe;
+}
+
+.fa-list-alt:before {
+    background: #005cd0;
+}
+
+.fa-hospital-o:before {
+    background: #0eacf0de
+}
+
+.fa-heartbeat:before {
+    color: white;
+}
+
+footer .widget h5 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    color: white;
+}
+
+.intro-content {
+    
+    background:-webkit-linear-gradient(left, #3931af, #00c6ff);
+    padding: 200px 0 60px;
+}
+
+.btn {
+  background-color: DodgerBlue; 
+  border: none; 
+  color: white; 
+  padding: 12px 16px; 
+  font-size: 16px; 
+  cursor: pointer; 
+}
+
+
+.btn:hover {
+  background-color: RoyalBlue;
+}
 	<body>
 		<div id="app">		
 <?php include('include/sidebar.php');?>
