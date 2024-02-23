@@ -23,6 +23,7 @@ echo "<script>alert('Patient info added Successfully');</script>";
 header('location:add-patient.php');
 
 }
+
 }
 ?>
 <!DOCTYPE html>
