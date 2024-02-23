@@ -27,7 +27,7 @@ if(strlen($_SESSION['id']==0)) {
 		<link rel="stylesheet" href="assets/css/plugins.css">
 		<link rel="stylesheet" href="assets/css/themes/theme-1.css" id="skin_color" />
 	</head>
-
+	<style >
 	.bg-skin {
     background: #0062cc;
     
@@ -121,6 +121,7 @@ footer .widget h5 {
 .btn:hover {
   background-color: RoyalBlue;
 }
+</style >
 	<body>
 		<div id="app">		
 <?php include('include/sidebar.php');?>
