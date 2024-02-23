@@ -295,3 +295,46 @@ footer .widget h5 {
                     </div>
                   </div>
                 </div>
+
+
+                             
+                </div>
+                </div>
+              </div>
+              <div class="col-sm-6 col-md-4">
+                <div class="wow fadeInDown" data-wow-delay="0.1s">
+                  <div class="widget">
+                    <h5>Metropolitan Hospital </h5>
+                    <p>
+                      
+                    </p>
+                    <ul>
+                      <li>
+                        <span class="fa-stack fa-lg">
+                      <i class="fa fa-calendar-o fa-stack-1x fa-inverse"></i>
+                    </span> Monday - Saturday, 8am to 10pm
+                      </li>
+                      <li>
+                        <span class="fa-stack fa-lg">
+                      <i class="fa fa-phone fa-stack-1x fa-inverse"></i>
+                    </span> +880 08 904 711
+                      </li>
+                      <li>
+                        <span class="fa-stack fa-lg">
+                      <i class="fa fa-envelope-o fa-stack-1x fa-inverse"></i>
+                    </span> Contact@Metrohospital.com
+                      </li>
+    
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-6 col-md-4">
+                <div class="wow fadeInDown" data-wow-delay="0.1s">
+                  <div class="widget">
+                    <h5>Our location</h5>
+                    <p>Pirer bazar, Sylhet - Tamabil Hwy, Bateshwar 3100</p>
+    
+                  </div>
+                </div>
+           
