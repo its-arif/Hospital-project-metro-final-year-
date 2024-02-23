@@ -206,3 +206,45 @@ body>
             </div>
           </div>
 
+
+
+          <section id="boxes" class="home-section paddingtop-80" style="background: -webkit-linear-gradient(left, #3931af, #00c6ff);color: white;font-family: 'IBM Plex Sans', sans-serif;">
+
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-3 col-md-3">
+            <div class="wow fadeInUp" data-wow-delay="0.3s">
+              <div class="box text-center">
+
+                <i class="fa fa-check fa-3x bg-skin"></i>
+                <h4>Patient Logint</h4>
+               
+                  <a href=" backend/user-login.php" class="btn btn-skin btn-lg" style="background:white;color:#006ccf">LOGIN <i class="fa fa-angle-right"></i></a>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-3 col-md-3">
+            <div class="wow fadeInUp" data-wow-delay="0.5s">
+              <div class="box text-center">
+
+                <i class="fa fa-user-md fa-3x bg-skin"></i>
+                <h4>Doctors login</h4>
+                
+                
+                  <a href=" backend/doctor" class="btn btn-skin btn-lg" style="background:white;color:#006ccf">LOGIN<i class="fa fa-angle-right"></i></a>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-3 col-md-3">
+            <div class="wow fadeInUp" data-wow-delay="0.7s">
+              <div class="box text-center">
+                <i class="fa fa-user fa-3x bg-skin"></i>
+                <h4>Admin Login</h4>
+              
+                  <a href=" backend/admin" class="btn btn-skin btn-lg" style="background:white;color:#006ccf">lOGIN <i class="fa fa-angle-right"></i></a>
+                </p>
+              </div>
+            </div>
+          </div>
