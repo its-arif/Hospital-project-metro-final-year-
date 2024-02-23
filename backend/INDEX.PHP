@@ -206,3 +206,37 @@ footer .widget h5 {
               </div>
             </div>
           </div>
+
+
+           
+        
+          </div>
+          </div>
+        </div>
+      </div>
+
+    </section>
+
+
+    <section id="service" class="home-section nopadding paddingtop-60" style="background: -webkit-linear-gradient(left, #3931af, #00c6ff);color: white" style="height: 80%;" >
+      <div class="container">
+    
+            <div class="row">
+              <div class="col-sm-6 col-md-6">
+                <div class="wow fadeInLeft" data-wow-delay="0.2s">
+                  <img src="img/dummy/img-6.png" class="img-responsive" alt="" />
+                </div>
+              </div>
+              <div class="col-sm-3 col-md-3">
+    
+                <div class="wow fadeInRight" data-wow-delay="0.1s">
+                  <div class="service-box">
+                    <div class="service-icon">
+                      <span class="fa fa-stethoscope fa-3x" style="color:#0062cc"></span>
+                    </div>
+                    <div class="service-desc">
+                      <h5 class="h-light">Medical checkup</h5>
+                      <p>Undergo a comprehensive medical checkup tailored to your needs.</p>
+                    </div>
+                  </div>
+                </div>
