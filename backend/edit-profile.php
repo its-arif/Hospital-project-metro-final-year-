@@ -49,6 +49,3 @@ html lang="en">
 		<link rel="stylesheet" href="assets/css/themes/theme-1.css" id="skin_color" />
 
 
-	</head>
-
-		<style>
