@@ -334,7 +334,18 @@ footer .widget h5 {
                     </span> Contact@Metrohospital.com
                       </li>
     
-             
+                      </ul>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-6 col-md-4">
+                <div class="wow fadeInDown" data-wow-delay="0.1s">
+                  <div class="widget">
+                    <h5>Our location</h5>
+                    <p>Pirer bazar, Sylhet - Tamabil Hwy, Bateshwar 3100</p>
+    
+                  </div>
+                </div>
            
           
         </footer>
