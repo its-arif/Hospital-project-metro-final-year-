@@ -49,3 +49,54 @@ html lang="en">
 		<link rel="stylesheet" href="assets/css/themes/theme-1.css" id="skin_color" />
 
 
+
+        </head>
+
+<style>
+body {
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #ffff
+}
+
+.container-fluidx {
+    display: flex;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar {
+    bbackground: rgb(2,0,36);
+    width: 20%;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgb(56 50 175) 0%, rgb(44 83 194) 100%);
+    padding: 0px;
+    color: white;
+    min-height: 100vh;
+}
+
+.sidebar a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    margin-bottom: 15px;
+    display: block;
+}
+
+.sidebar a:hover {
+    color: #00c6ff;
+}
+
+.main-content {
+    flex: 1;
+    padding: 0px;
+}
+
+.panel-titleX {
+padding-top: 10px;
+font-size: 18px;
+
+color: #ffff
+
+
+}
