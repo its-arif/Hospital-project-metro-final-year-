@@ -240,3 +240,27 @@ footer .widget h5 {
                     </div>
                   </div>
                 </div>
+
+                
+                <div class="wow fadeInRight" data-wow-delay="0.2s">
+                  <div class="service-box">
+                    <div class="service-icon">
+                      <span class="fa fa-wheelchair fa-3x" style="color:#0062cc"></span>
+                    </div>
+                    <div class="service-desc">
+                      <h5 class="h-light">Nursing Services</h5>
+                      <p>Receive dedicated nursing care that caters to your individual requirements.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="wow fadeInRight" data-wow-delay="0.3s">
+                  <div class="service-box">
+                    <div class="service-icon">
+                      <span class="fa fa-plus-square fa-3x" style="color:#0062cc"></span>
+                    </div>
+                    <div class="service-desc">
+                      <h5 class="h-light">Pharmacy</h5>
+                      <p>Visit our pharmacy offering a wide range of medications and healthcare products. Get expert advice on prescriptions and over-the-counter medicines.</p>
+                    </div>
+                  </div>
+                </div>
