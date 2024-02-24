@@ -68,3 +68,28 @@ $query=mysqli_query($con,"insert into appointment(doctorSpecialization,doctorId,
             });
         }
         </script>
+        </head>
+        
+        <style>
+                body {
+                    font-family: 'Lato', sans-serif;
+                    margin: 0;
+                    padding: 0;
+                    background: #ffff
+                }
+        
+                .container-fluidx {
+                    display: flex;
+                    padding: 0;
+                    margin: 0;
+                }
+        
+                  .sidebar {
+                    bbackground: rgb(2,0,36);
+                    width: 20%;
+                    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgb(56 50 175) 0%, rgb(44 83 194) 100%);
+                    padding: 0px;
+                    color: white;
+                    min-height: 100vh;
+                }
+        
