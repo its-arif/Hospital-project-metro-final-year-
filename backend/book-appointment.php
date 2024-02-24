@@ -290,4 +290,23 @@ $query=mysqli_query($con,"insert into appointment(doctorSpecialization,doctorId,
 						</select>
 														</div>
 														
+<div class="form-group"
+
+    Date
+                                                            </label>
+<input class="form-control datepicker" name="appdate"  required="required" data-date-format="yyyy-mm-dd">
+    
+                                                        </div>
+                                                        
 <div class="form-group">
+                                                            <label for="Appointmenttime">
+                                                        
+                                                        Time
+                                                    
+                                                            </label>
+            <input class="form-control" name="apptime" id="timepicker1" required="required">eg : 10:00 PM
+                                                        </div>														
+                                                        
+                                                        <button type="submit" name="submit" class="btn btn-o btn-primary">
+                                                            Submit
+                                                        </button>
