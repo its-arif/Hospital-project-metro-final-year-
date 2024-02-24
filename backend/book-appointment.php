@@ -92,4 +92,35 @@ $query=mysqli_query($con,"insert into appointment(doctorSpecialization,doctorId,
                     color: white;
                     min-height: 100vh;
                 }
+            
         
+        
+        
+        
+                .sidebar a {
+                    text-decoration: none;
+                    color: white;
+                    font-size: 18px;
+                    margin-bottom: 15px;
+                    display: block;
+                }
+        
+                .sidebar a:hover {
+                    color: #00c6ff;
+                }
+        
+                .main-content {
+                    flex: 1;
+                    padding: 0px;
+                }
+        
+                .panel-titleX {
+                padding-top: 10px;
+                padding-right: 0px;
+                font-size: 18px;
+            
+                color: #ffff
+                
+                
+            }
+            </style>
