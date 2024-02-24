@@ -145,3 +145,59 @@ $query=mysqli_query($con,"insert into appointment(doctorSpecialization,doctorId,
                      
             
                           </ul>
+                                  </div>
+                                </div>
+                            
+                                </div>
+                          
+                          
+                          
+                              <div class="container-fluidx">
+                              <!-- Sidebar -->
+                              <div class="sidebar">
+                            <div class="panel-heading">
+                                                                            <h5 class="panel-title">WELCOME BACK</h5>
+                                                                        
+                          
+                            <?php 
+                          $sql=mysqli_query($con,"select * from users where id='".$_SESSION['id']."'");
+                          while($data=mysqli_fetch_array($sql))
+                          {
+                          ?>
+                          <h5 class="panel-titleX"><?php echo htmlentities($data['fullName']);?></h5>
+                          <p><b>
+                          <?php if($data['updationDate']){?>
+                          <p><b></p>
+                          <?php }}?>
+                          <hr />	
+                          </div>
+                                  <ul class="nav flex-column">
+                          
+                            
+                            
+                                                                
+                                            
+                                      
+                          
+                          
+                                      <li class="nav-item">
+                                          <a class="nav-link active" href="dashboard.php">Dashboard</a>
+                                      </li>
+                                      <li class="nav-item">
+                                          <a class="nav-link" href="edit-profile.php">My Profile</a>
+                                      </li>
+                                      <li class="nav-item">
+                                          <a class="nav-link" href="appointment-history.php">My Appointments</a>
+                                      </li>
+                                      <li class="nav-item">
+                                          <a class="nav-link" href="book-appointment.php">Book Appointments</a>
+                                      </li>
+                                      <li class="nav-item">
+                                          <a class="nav-link" href="change-password.php">Change Password</a>
+                                      </li>
+                                    <li class="nav-item">
+                                          <a class="nav-link" href="logout.php">Log out</a>
+                                      </li>
+                                  
+                                  </ul>
+                              </div>
