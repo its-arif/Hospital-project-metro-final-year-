@@ -43,3 +43,28 @@ $query=mysqli_query($con,"insert into appointment(doctorSpecialization,doctorId,
         <link rel="stylesheet" href="assets/css/plugins.css">
         <link rel="stylesheet" href="assets/css/themes/theme-1.css" id="skin_color" />
         <script>
+        function getdoctor(val) {
+            $.ajax({
+            type: "POST",
+            url: "get_doctor.php",
+            data:'specilizationid='+val,
+            success: function(data){
+                $("#doctor").html(data);
+            }
+            });
+        }
+        </script>	
+        
+        
+        <script>
+        function getfee(val) {
+            $.ajax({
+            type: "POST",
+            url: "get_doctor.php",
+            data:'doctor='+val,
+            success: function(data){
+                $("#fees").html(data);
+            }
+            });
+        }
+        </script>
